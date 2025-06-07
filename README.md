@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Subin's%20GitHub&fontColor=white)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=4&text=Subin's%20GitHub&fontAlign=50&textBg=false&section=header&fontSize=61&fontAlignY=42" />
+</br>
 
 ## Hi there 👋
 
