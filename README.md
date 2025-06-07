@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=18&text=Subin's%20GitHub&fontAlign=50&textBg=false&section=header&fontSize=61&fontAlignY=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=20&text=Subin's%20GitHub&fontAlign=50&textBg=false&section=header&fontSize=61&fontAlignY=42" />
 </br>
 
 <h3>🛠️Tech Stacks🛠️</h3>
@@ -54,7 +54,9 @@
 <!-- Notion -->
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&fontAlign=50&textBg=false&section=footer&fontSize=61&fontAlignY=42"/>
 
+</div>
 <!--
 **waterkong01/waterkong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
