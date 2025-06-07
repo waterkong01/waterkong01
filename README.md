@@ -63,8 +63,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterkong01&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 ![Subin's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterkong01&theme=buefy&rank_icon=github&show_icons=true)
 
+![My Repo](https://github-readme-stats.vercel.app/api/pin/?username=waterkong01&repo=auto&theme=buefy)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&fontAlign=50&textBg=false&section=footer&fontSize=61&fontAlignY=42"/>
 </div>
+
 <!--
 **waterkong01/waterkong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
