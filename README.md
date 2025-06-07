@@ -54,17 +54,15 @@
 <!-- Notion -->
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&fontAlign=50&textBg=false&section=footer&fontSize=61&fontAlignY=42"/>
-
 </br>
 </br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=waterkong01)](https://solved.ac/hjck4433)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=waterkong01)](https://solved.ac/waterkong01)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterkong01&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 [![Subin's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterkong01&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=20&fontAlign=50&textBg=false&section=footer&fontSize=61&fontAlignY=42"/>
 </div>
 <!--
 **waterkong01/waterkong01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
