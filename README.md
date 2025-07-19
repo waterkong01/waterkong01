@@ -63,7 +63,7 @@
 </br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=waterkong01)](https://solved.ac/waterkong01)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=waterkong01&theme=warm)
+<!-- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=waterkong01&theme=warm) -->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waterkong01&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 ![Subin's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterkong01&theme=buefy&rank_icon=github&show_icons=true)
